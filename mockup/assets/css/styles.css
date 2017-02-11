@@ -1,8 +1,55 @@
+/*
+*   DastNevesht :: Styles
+*/
+
+@import url(./fontiran.css);
+
+body {
+  font-family: IRANSans;
+  font-weight: 500;
+}
+
+#navbar > ul > li > a {
+  font-size: 1.2rem;
+}
+
 #sidebar .list-group {
   /*border: 2px solid red;*/
   margin-top: 75px;
 }
 
+#sidebar .list-group a {
+  font-size: 1.2rem;
+}
+
+#sidebar .list-group a:last-of-type {
+  font-weight: 700;
+}
+
 .jumbotron {
   margin-top: 75px;
+}
+
+.jumbotron h1 {
+  font-size: 3.5rem;
+}
+
+.jumbotron p.tagline {
+  font-size: 1.8rem;
+}
+
+.posts-grid h2 {
+  font-size: 2rem;
+}
+
+.posts-grid p {
+  font-size: 1.2rem;
+}
+
+
+
+
+
+footer p {
+  font-size: 1rem;
 }
