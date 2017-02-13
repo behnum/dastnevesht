@@ -3,6 +3,7 @@
 */
 
 @import url(./fontiran.css);
+@import url(./typicons.min.css);
 
 body {
   font-family: IRANSans;
