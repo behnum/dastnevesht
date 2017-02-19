@@ -74,6 +74,9 @@ body {
   content: "";
 }
 
+.author-a:hover {
+  text-decoration: none;
+}
 
 
 
