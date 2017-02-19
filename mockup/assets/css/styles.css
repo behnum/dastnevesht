@@ -47,6 +47,28 @@ body {
   font-size: 1.2rem;
 }
 
+.tag-p {
+  color: #888;
+}
+
+.tag-p a.tag-a {
+  color: #333;
+  padding: .6 rem;
+}
+
+.tag-p a.tag-a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.tag-p a.tag-a::after {
+  content: "، ";
+  color: #777;
+}
+
+.tag-p a.tag-a:last-child::after {
+  content: "";
+}
 
 
 
