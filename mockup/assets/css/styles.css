@@ -48,7 +48,11 @@ body {
 }
 
 .tag-p {
-  color: #888;
+  color: #222;
+}
+
+.author-p {
+  color: #007db6;
 }
 
 .tag-p a.tag-a {
