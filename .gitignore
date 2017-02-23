@@ -1,3 +1,15 @@
+# Laravel Specific
+dastnevesht.dev/node_modules
+dastnevesht.dev/public/storage
+dastnevesht.dev/public/hot
+dastnevesht.dev/storage/*.key
+dastnevesht.dev/vendor
+dastnevesht.dev/.idea
+dastnevesht.dev/Homestead.json
+dastnevesht.dev/Homestead.yaml
+dastnevesht.dev/.env
+
+# The Rest of Stuff
 .DS_Store
 dist/
 
