@@ -1,2 +1,2 @@
 # ✏️ Dastnevesht
-It's a Persian, Minimalistic Thought Sharing App
+A Persian, Minimalistic Thought Sharing App
